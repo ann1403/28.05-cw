@@ -1,0 +1,7 @@
+
+DOM
+document.
+querySelector('#')
+innerHTML='this is DIV' -
+Все елементи називаються узлами
+pattern observer (парарації)
